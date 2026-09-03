@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "katapult-klogic",
+  "displayName": "Katapult K-Logic (QC Checks)",
+  "version": "0.1.0",
+  "description": "Turn plain-English Katapult Pro QC checks into paste-ready K-Logic JSON blocks. Bundles the block/operator/path references and per-model attribute catalogs.",
+  "keywords": ["katapult", "klogic", "qc", "quality-control", "make-ready"],
+  "license": "MIT"
+}

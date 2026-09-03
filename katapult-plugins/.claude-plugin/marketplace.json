@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "katapult-plugins",
+  "owner": {
+    "name": "REPLACE_ME"
+  },
+  "plugins": [
+    {
+      "name": "katapult-klogic",
+      "source": "./plugins/katapult-klogic",
+      "description": "Write paste-ready K-Logic JSON blocks for Katapult Pro QC checks."
+    }
+  ]
+}
